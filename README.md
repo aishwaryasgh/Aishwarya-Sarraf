@@ -10,7 +10,7 @@
     </td>
     <td>
       <a href="https://www.coursera.org/account/accomplishments/verify/69O73NXV4VN2">
-        <img src="./cert-supervised-ml.jpg" alt="Supervised ML - Coursera" width="300"/>
+        <img src="./cert-supervised-ml.jpg" alt="Supervised Machine Learning - Coursera" width="300"/>
       </a>
       <p align="center"><b>Supervised Machine Learning</b><br/>Coursera, March 2025</p>
     </td>
