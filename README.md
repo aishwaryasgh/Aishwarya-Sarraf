@@ -6,4 +6,19 @@
 - [Supervised Machine Learning: Regression and Classification](https://www.coursera.org/account/accomplishments/verify/69O73NXV4VN2) – Coursera, March 2025
 - [Introduction to Statistics](https://www.coursera.org/account/accomplishments/verify/VFL02P4QD5YL) – Stanford University, December 2024
 
+<h2>🏆 Certifications</h2>
 
+<table>
+  <tr>
+    <td>
+      <a href="https://www.coursera.org/account/accomplishments/verify/2GCMDKFHMDLM">
+        <img src="./AI%20for%20everyone%20Coursera_page-0001.jpg" alt="AI For Everyone" width="300"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://www.coursera.org/account/accomplishments/verify/VFL02P4QD5YL">
+        <img src="./cert-intro-to-stats.jpg" alt="Intro to Statistics" width="300"/>
+      </a>
+    </td>
+  </tr>
+</table>
